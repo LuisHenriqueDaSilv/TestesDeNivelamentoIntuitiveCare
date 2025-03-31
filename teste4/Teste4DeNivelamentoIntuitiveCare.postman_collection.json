@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "435eada8-6e03-4552-8829-e4f2fce4714e",
+		"name": "Teste4DeNivelamentoIntuitiveCare",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "12364090"
+	},
+	"item": [
+		{
+			"name": "Test",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
