@@ -44,4 +44,4 @@ def getIndex():
     
     except Exception as error:
         logging.error(f"An unexpected error occurred: {error}")
-        return "An unexpected error occurred", 400
+        return jsonify({"status": "error", "message": "An unexpected error occurred"}), 500
